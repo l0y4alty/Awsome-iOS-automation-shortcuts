@@ -1,8 +1,4 @@
-Alright — here’s your **fancy, emoji-powered, table-of-contents** version of the README so it really feels like a polished shortcut hub.
 
----
-
-````markdown
 # 📱 Awsome iOS Automation Shortcuts ⚡
 
 Welcome to **Awsome-iOS-automation-shortcuts** —  

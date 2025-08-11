@@ -3,84 +3,48 @@
 
 Welcome to **Awsome-iOS-automation-shortcuts** —  
 your **all-in-one** library of iOS Shortcuts covering **productivity, media, smart home, social media, system tools, health, fun, and more**.  
+this is my personal list of automations and shortcuts made by me.
+
 
 If you can imagine it, there’s probably a shortcut for it here.  
 
 ---
 
 ## 📑 Table of Contents
-1. [✨ Features](#-features)
-2. [📂 Shortcut Categories](#-shortcut-categories)
+1. [📂 Shortcuts](#-shortcuts)
+2. [🤖 Automations](#-automations)
 3. [📦 Installation](#-installation)
 4. [🛠 Requirements](#-requirements)
-5. [🤝 Contributing](#-contributing)
+5. [🤝 Requests](#-requests)
 6. [📜 License](#-license)
 7. [⭐ Support](#-support)
 
 ---
 
-## ✨ Features
-- 📅 **Productivity** → notes, reminders, calendar automation  
-- 🖼 **Media & Files** → convert, compress, rename, organize  
-- 📲 **Social Media** → one-tap posting, templates, story tools  
-- 🏠 **Smart Home** → control HomeKit devices, routines  
-- ⚙️ **System Tools** → battery info, network tests, cleanup tools  
-- 🧘 **Health & Lifestyle** → workout tracking, mindfulness reminders  
-- 🎲 **Fun & Miscellaneous** → games, quotes, randomizers  
+## 📂 Shortcuts
 
----
-
-## 📂 Shortcut Categories
-
-### 📅 Productivity
-| Shortcut Name      | Description | iOS Tested |
+| Shortcut Name      | Description | iCloud link |
 |--------------------|-------------|------------|
-| Quick Note Pro     | Instantly create a timestamped note in Notes app | 17.4 |
-| Smart Remind Me    | Set context-aware reminders | 17.4 |
-
-### 🖼 Media & Files
-| Shortcut Name       | Description | iOS Tested |
-|---------------------|-------------|------------|
-| Batch Image Resizer | Resize multiple images in one tap | 17.4 |
-| Convert to PDF      | Turn any file into a PDF | 17.4 |
-
-### 📲 Social Media
-| Shortcut Name    | Description | iOS Tested |
-|------------------|-------------|------------|
-| Auto Post Story  | Post a story to multiple platforms at once | 17.4 |
-| Hashtag Helper   | Generate trending hashtags | 17.4 |
-
-### 🏠 Smart Home
-| Shortcut Name        | Description | iOS Tested |
-|----------------------|-------------|------------|
-| Good Morning Routine | Lights on, music plays, weather update | 17.4 |
-| Sleep Mode           | Dim lights, set alarm, enable Do Not Disturb | 17.4 |
-
-### ⚙️ System Tools
-| Shortcut Name       | Description | iOS Tested |
-|---------------------|-------------|------------|
-| Battery Health Check| Show battery cycles & condition | 17.4 |
-| Network Speed Test  | Run an internet speed test | 17.4 |
-
-### 🧘 Health & Lifestyle
-| Shortcut Name          | Description | iOS Tested |
-|------------------------|-------------|------------|
-| Daily Motivation Quote | Show a random inspiring quote | 17.4 |
-| Water Reminder         | Remind you to drink water every 2h | 17.4 |
-
-### 🎲 Fun & Miscellaneous
-| Shortcut Name    | Description | iOS Tested |
-|------------------|-------------|------------|
-| Random Dad Joke  | Tell a random dad joke | 17.4 |
-| Surprise Me      | Open a random app or shortcut | 17.4 |
 
 ---
+## 🤖 Automations
+-[Name Of The Automation](Automations/Name_Of_The_Automation/README.md)
 
+---
 ## 📦 Installation
-1. Browse the repository and open a shortcut file/link.
-2. Tap **"Get Shortcut"** (opens in the Shortcuts app).
-3. Review permissions and tap **Add Shortcut**.
-4. Start automating!
+
+-**shortcuts** 
+
+1. Browse the repository and open a shortcut iCloud link.
+2. The link will send you in a browser page.
+3. Tap **"Get Shortcut"** down below (opens in the Shortcuts app).
+4. Review permissions and tap **Add Shortcut**.
+5. Start automating!
+
+-**Automations**
+
+Unfortunately automations cannot be shared directly.
+So i will make for everyone of them a step-by-step tutorial with screenshots.
 
 ---
 
@@ -91,22 +55,12 @@ If you can imagine it, there’s probably a shortcut for it here.
 
 ---
 
-## 🤝 Contributing
-Want to make this pack even better?  
+## 🤝 Requests
+Want me to implement a shortcut/automations?  
 You can:
-- 🆕 Add new shortcuts
-- 🛠 Fix broken ones
-- 💡 Suggest improvements
-
-**Contribution steps:**
-```bash
-git fork this-repo
-git checkout -b feature/my-new-shortcut
-git commit -m "Add: My New Shortcut"
-git push origin feature/my-new-shortcut
-````
-
-Then open a Pull Request.
+- Create an issue.
+  
+- 💡 Or You can Suggest improvements via pull requests! (I Will Appreciate It so Much)
 
 ---
 
